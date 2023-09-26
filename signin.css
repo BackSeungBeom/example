@@ -17,10 +17,12 @@ body {
   width: 100%;
   max-width: 330px;
   padding: 15px;
+  align-items: center;
   margin: auto;
 }
 .form-signin .checkbox {
   font-weight: 400;
+  align-items: center;
 }
 .form-signin .form-control {
   position: relative;
